@@ -1,6 +1,6 @@
-# Tenorshare PDNOB
+# Tenorshare PDNob
 
-Tenorshare PDNOB is a versatile PDF tool that helps you to:
+Tenorshare PDNob is a versatile PDF tool that helps you to:
 - **Edit** PDFs with ease.
 - **Convert** PDF documents to various formats.
 - **Annotate** PDFs for easy collaboration and review.
@@ -16,9 +16,9 @@ For more information, refer to the [Tenorshare PDNob](https://www.tenorshare.com
 
 ## Installation
 
-1. **Download** the latest version of Tenorshare PDNOB from the official website:  
-   - [Download PDNOB for Windows](https://download.tenorshare.com/go/pdnob-pdf-editor_8946.exe)  
-   - [Download PDNOB for Mac](https://download.tenorshare.com/go/pdnob-pdf-editor_8947.zip)
+1. **Download** the latest version of Tenorshare PDNob from the official website:  
+   - [Download PDNob for Windows](https://download.tenorshare.com/go/pdnob-pdf-editor_8946.exe)  
+   - [Download PDNob for Mac](https://download.tenorshare.com/go/pdnob-pdf-editor_8947.zip)
 
 2. **Follow** the [Tutorial Video](https://www.youtube.com/watch?v=oUBhtmR1Pw0).
 
@@ -29,14 +29,14 @@ For more information, refer to the [Tenorshare PDNob](https://www.tenorshare.com
 For detailed usage instructions, please visit the [User Guide](https://www.tenorshare.com/guide/how-to-use-pdnob-pdf-editor.html).
 
 ### Screenshot
-Here are screenshots showing the main interface of Tenorshare PDNOB:
-![Tenorshare PDNOB Screenshot 1](https://images.tenorshare.com/howtousepdf/download-and-install-windows.jpg)
-![Tenorshare PDNOB Screenshot 2](https://images.tenorshare.com/howtousepdf/edit-text.jpg)
-![Tenorshare PDNOB Screenshot 3](https://images.tenorshare.com/howtousepdf/ocr-pdf.jpg)
-![Tenorshare PDNOB Screenshot 4](https://images.tenorshare.com/howtousepdf/annotate-pdf.jpg)
-![Tenorshare PDNOB Screenshot 5](https://images.tenorshare.com/howtousepdf/organize-pdf.jpg)
+Here are screenshots showing the main interface of Tenorshare PDNob:
+![Tenorshare PDNob Screenshot 1](https://images.tenorshare.com/howtousepdf/download-and-install-windows.jpg)
+![Tenorshare PDNob Screenshot 2](https://images.tenorshare.com/howtousepdf/edit-text.jpg)
+![Tenorshare PDNob Screenshot 3](https://images.tenorshare.com/howtousepdf/ocr-pdf.jpg)
+![Tenorshare PDNob Screenshot 4](https://images.tenorshare.com/howtousepdf/annotate-pdf.jpg)
+![Tenorshare PDNob Screenshot 5](https://images.tenorshare.com/howtousepdf/organize-pdf.jpg)
 
 ## Contact
 
 For support, email us at [support@tenorshare.com](mailto:support@tenorshare.com).  
-For more information about Tenorshare PDNOB, visit our website: [www.tenorshare.com](https://www.tenorshare.com).
+For more information about Tenorshare PDNob, visit our website: [www.tenorshare.com](https://www.tenorshare.com).
