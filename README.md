@@ -6,7 +6,7 @@ Tenorshare PDNOB is a versatile PDF tool that helps you to:
 - **Annotate** PDFs for easy collaboration and review.
 - **Perform OCR** (Optical Character Recognition) on scanned or image-based PDFs.
 
-For installation and usage instructions, refer to the [User Guide](https://www.tenorshare.com/guide/how-to-use-pdnob-pdf-editor.html).
+For more information, refer to the [Tenorshare PDNob](https://www.tenorshare.com/products/pdf-editor-software-free-download.html).
 
 ## Features
 - **PDF Editing**: Modify text, images, and pages in PDF documents.
